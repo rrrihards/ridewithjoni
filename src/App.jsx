@@ -211,7 +211,7 @@ export default function App() {
       <section className="flex flex-col items-center justify-center py-0 px-2">
         <img src={logoExternal} alt="Joni Vollenberg Logo" className="h-56 w-auto mb-0" />
         <p className="mt-1 max-w-2xl text-center text-lg font-bold text-stone-700">
-          Ride Better. Feel Stronger. Go Further.
+
         </p>
       </section>
 
