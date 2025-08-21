@@ -176,8 +176,8 @@ export default function App() {
   const gallery = [
     { src: "https://dl.dropboxusercontent.com/scl/fi/6e7fxhz4hlpjokn1hnzdu/520324820_10233846576058961_1063538250687814866_n.jpg?rlkey=7g40pq416bgqppd0yr1mggg6g&st=i5u53nj3&raw=1", focus: "top" },
     { src: "https://dl.dropboxusercontent.com/scl/fi/9mm8mbqh3govstbbwiy37/506635867_10233308082436957_3367148017872899153_n.jpg?rlkey=pd04tooo6ycv4cyumr5ytn32d&st=kx6o2oqc&raw=1", focus: "center" },
-    { src: "https://dl.dropboxusercontent.com/scl/fi/4dwbrogx9cg3fuo6nnzc1/531869801_10234143836130277_3674620326781691676_n.jpg?rlkey=096rqt3gciy91iuwwcrnovt98&st=c1yonyqu&raw=1", focus: "50% 30%" },
-    { src: "https://dl.dropboxusercontent.com/scl/fi/vbunsyi8dlvspaqwzkqd8/get.jpg?rlkey=vr237527kmznvt3adk6d9ko86&st=holxsudw&raw=1", focus: "center" },
+    { src: "https://dl.dropboxusercontent.com/scl/fi/4dwbrogx9cg3fuo6nnzc1/531869801_10234143836130277_3674620326781691676_n.jpg?rlkey=096rqt3gciy91iuwwcrnovt98&st=c1yonyqu&raw=1", focus: "top" },
+    { src: "https://dl.dropboxusercontent.com/scl/fi/vbunsyi8dlvspaqwzkqd8/get.jpg?rlkey=vr237527kmznvt3adk6d9ko86&st=holxsudw&raw=1", focus: "top" },
   ];
 
   const testimonial = {
